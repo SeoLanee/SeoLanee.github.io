@@ -1,3 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-31T13:10:13+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SeoLan’s Blog</title><subtitle>Rain is a simple and clean Jekyll theme with focus on content.</subtitle><author><name>SeoLan</name><email>seolan25@gmail.com</email></author><entry><title type="html">First post</title><link href="http://localhost:4000/2025-05-31/Test" rel="alternate" type="text/html" title="First post" /><published>2025-05-31T00:00:00+09:00</published><updated>2025-05-31T00:00:00+09:00</updated><id>http://localhost:4000/2025-05-31/Test</id><content type="html" xml:base="http://localhost:4000/2025-05-31/Test"><![CDATA[<p>This is second post</p>]]></content><author><name>SeoLan</name></author><summary type="html"><![CDATA[This is second post]]></summary></entry><entry><title type="html">Lorem Ipsum post</title><link href="http://localhost:4000/2018-05-16/lorem-ipsum-post" rel="alternate" type="text/html" title="Lorem Ipsum post" /><published>2018-05-16T00:00:00+09:00</published><updated>2018-05-16T00:00:00+09:00</updated><id>http://localhost:4000/2018-05-16/lorem-ipsum-post</id><content type="html" xml:base="http://localhost:4000/2018-05-16/lorem-ipsum-post"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-31T13:30:35+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SeoLan’s Blog</title><subtitle>Rain is a simple and clean Jekyll theme with focus on content.</subtitle><author><name>SeoLan</name><email>seolan25@gmail.com</email></author><entry><title type="html">Github blog를 시작하며</title><link href="http://localhost:4000/2025-05-31/Test" rel="alternate" type="text/html" title="Github blog를 시작하며" /><published>2025-05-31T00:00:00+09:00</published><updated>2025-05-31T00:00:00+09:00</updated><id>http://localhost:4000/2025-05-31/Test</id><content type="html" xml:base="http://localhost:4000/2025-05-31/Test"><![CDATA[<p>처음으로 깃 블로그를 쓴다.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content><author><name>Inela</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></summary></entry></feed>
+<p>아마 이 블로그는 내가 배운 것들을 정리해서 정제한 것들을 올리는 블로그가 될 것이라 생각한다.<br />
+이 블로그에 적을 내용은</p>
+<ul>
+  <li>공부한 것 정리</li>
+  <li>포스트모템
+    <ul>
+      <li>스터디</li>
+      <li>프로젝트</li>
+    </ul>
+  </li>
+</ul>
+
+<p>정도가 되지 않을까?</p>
+
+<p>현재 계획은</p>
+
+<ul>
+  <li>정보 블로그 (blog.seolan.me)</li>
+  <li>샌드박스 블로그 (dev.seolan.me)</li>
+  <li>개인 위키 (wiki.seolan.me)</li>
+</ul>
+
+<p>이렇게 세 개를 두는 것을 생각하고 있다.</p>]]></content><author><name>SeoLan</name></author><summary type="html"><![CDATA[처음으로 깃 블로그를 쓴다.]]></summary></entry></feed>
